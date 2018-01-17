@@ -9,8 +9,6 @@ author_profile: yes
 
 {% include base_path %}
 
-###Curriculum Vitae
-
 [View as PDF](/_pages/curriculumvitae.pdf)
 
 Education
@@ -21,18 +19,18 @@ Education
 Professional Experience
 ======
 
-#Research
+<h3> Research </h3>
 * June 2017 - current: Statistical Assistant
-  * _Using interactive learning to integrate statistical theory with contemporary research practices_ University of Sydney Strategic Education Grant/Educational Innovation Grant
+  * **_Using interactive learning to integrate statistical theory with contemporary research practices_; University of Sydney Strategic Education Grant/Educational Innovation Grant**
   * Duties included: Designing and programming interactive learning apps to teach statistical concepts
   * Supervisor: Associate Professor Ben Colagiuri and Doctor Rebecca Pinkus
 
 * June 2017 - current: Research Assistant
-  * _The development of attentional control in children with and without anxiety_ University of Sydney Faculty of Science/Seed Funding
-  * Duties included: Programming experiments
+  * **_The development of attentional control in children with and without anxiety_; University of Sydney Faculty of Science/Seed Funding**
+  * Duties included: Programming experiments and data analysis
   * Supervisor: Doctor Micah Goldwater
 
-#Teaching
+<h3> Teaching </h3>
 * Summer School 2018: Lecturer
   * Introduction to Psychology (PSYC1001), _University of Sydney_
 * 2015 - 2017: Tutor

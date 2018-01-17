@@ -7,11 +7,11 @@ redirect_from: /resume
 author_profile: yes
 ---
 
-[View as PDF](/_pages/curriculumvitae.pdf)
-
 {% include base_path %}
 
-### Curriculum Vitae
+###Curriculum Vitae
+
+[View as PDF](/_pages/curriculumvitae.pdf)
 
 Education
 ======

@@ -1,40 +1,52 @@
 ---
+title: "Curriculum Vitae"
 layout: archive
-title: "CV"
+output: pdf_document
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+redirect_from: /resume
+author_profile: yes
 ---
+
+[View as PDF](/_pages/curriculumvitae.pdf)
 
 {% include base_path %}
 
+### Curriculum Vitae
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Bachelor of Psychology (Honours), University of Sydney, 2014.
+* Doctor of Philosophy (Psychology), University of Sydney, 2019 (expected).
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#Research
+* June 2017 - current: Statistical Assistant
+  * _Using interactive learning to integrate statistical theory with contemporary research practices_ University of Sydney Strategic Education Grant/Educational Innovation Grant
+  * Duties included: Designing and programming interactive learning apps to teach statistical concepts
+  * Supervisor: Associate Professor Ben Colagiuri and Doctor Rebecca Pinkus
+
+* June 2017 - current: Research Assistant
+  * _The development of attentional control in children with and without anxiety_ University of Sydney Faculty of Science/Seed Funding
+  * Duties included: Programming experiments
+  * Supervisor: Doctor Micah Goldwater
+
+#Teaching
+* Summer School 2018: Lecturer
+  * Introduction to Psychology (PSYC1001), _University of Sydney_
+* 2015 - 2017: Tutor
+	* Statistics and Research Methods for Psychology (PSYC2012), _University of Sydney_
+* 2015, 2017: Tutor
+  * Advanced Statistics for Psychology (PSYC3010), _University of Sydney_
+* 2016: Tutor
+  * Research Methods in Honours Psychology, _University of Sydney_
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming experiments and analyses in MATLAB and R.
+* Conduct experiment including eyetracking (Eyelink) and EEG (BrainProducts)
 
 Publications
 ======
@@ -42,7 +54,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and Posters
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -53,7 +65,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

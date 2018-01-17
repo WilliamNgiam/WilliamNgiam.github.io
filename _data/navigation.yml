@@ -6,6 +6,9 @@ main:
   - title: "Posters"
     url: /posters/
 
+  - title: "Talks"
+    url: /talks/
+
   - title: "CV"
     url: /cv/    
    

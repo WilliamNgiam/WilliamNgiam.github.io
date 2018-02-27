@@ -68,7 +68,7 @@ You can also check if two values are not equal to each other using the "~" opera
 >> 'a' ~= 'a'
 ```
 
--   && and ||
+-   && and `||`
 
 MATLAB can perform conditional logic tests using two expressions. The "AND" operator (&&) checks both expressions and will only output "True" if both expressions true themselves. Try this:
 ```
@@ -90,7 +90,7 @@ MATLAB will output a logical "false" because at least one statement is false (th
 |false|true|false|
 |false|false|false|
 
-The OR operator (||) works similarly. If at least one expression is true, then the overall logical expression is true. For example:
+The OR operator (`||`) works similarly. If at least one expression is true, then the overall logical expression is true. For example:
 
 ```
 >> 2 ~= 5 || 3 > 29
@@ -102,9 +102,9 @@ Even though the second statement is false, this overall logical expression is "t
 >> 2 < 1 || 5 == 10
 ```
 
-Here is the truth table for the || operator:
+Here is the truth table for the `||` operator:
 
-|x|y|x || y|
+|x|y|x `||` y|
 |---|---|---|
 |true|true|true|
 |true|false|true|

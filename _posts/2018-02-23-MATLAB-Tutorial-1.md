@@ -1,8 +1,4 @@
-=====
-<style>
-div.blue pre { background-color:lightblue; }
-</style>
-<br> These notes correspond to MATLAB tutorial 1.
+These notes recap the first MATLAB tutorial in which I introduced the MATLAB interface and some basics.
 
 Console
 -------

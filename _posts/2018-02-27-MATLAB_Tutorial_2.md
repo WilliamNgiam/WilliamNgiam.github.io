@@ -32,7 +32,7 @@ MATLAB is able to check if one value is greater than or less than another value.
 The first line is a <b>true</b> relation (3 is indeed less than 5). The output MATLAB gives is a "logical" 1, which means "true". The second line is a <b>false</b> relation. The output MATLAB gives is a "logical" 0, which means "false". You can also use relationals with single letters. Try this:
 
 ```
-'a' < 'c'
+>> 'a' < 'c'
 ```
 
 This is "true". MATLAB converts letters to their corresponding integer in the alphabet ("a" = 1, "b" = 2, and so on), and performs the same relational test.
@@ -232,6 +232,7 @@ This will create a "2 x 3" matrix. MATLAB defines 2-dimensional matrices first b
 ```
 
 Running the previous line of code will produce this error:
+
 ```
 Error using vertcat
 Dimensions of matrices being concatenated are not consistent.
@@ -247,6 +248,7 @@ You can use the : operator and previously defined vectors to create matrices as 
 -   Linear indexing
 
 Identifying elements in a matrix is a little different to vectors. Try these:
+
 ```
 >> myMatrix
 >> myMatrix(1)

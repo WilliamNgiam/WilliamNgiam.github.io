@@ -1,5 +1,5 @@
 ---
-title: MATLAB Tutorial `
+title: MATLAB Tutorial 1
 ---
 
 These notes recap the first MATLAB tutorial in which I introduced the MATLAB interface and some basics.

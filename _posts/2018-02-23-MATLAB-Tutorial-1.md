@@ -1,3 +1,7 @@
+---
+title: MATLAB Tutorial `
+---
+
 These notes recap the first MATLAB tutorial in which I introduced the MATLAB interface and some basics.
 
 Console

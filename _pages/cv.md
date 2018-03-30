@@ -40,12 +40,6 @@ Professional Experience
 * 2016: Tutor
   * Research Methods in Honours Psychology, _University of Sydney_
 
-  
-Skills
-======
-* Programming experiments and analyses in MATLAB and R.
-* Conduct experiment including eyetracking (Eyelink) and EEG (BrainProducts)
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,7 +51,12 @@ Talks and Posters
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+ 
+Skills
+======
+* Programming experiments and analyses in MATLAB and R.
+* Conduct experiment including eyetracking (Eyelink) and EEG (BrainProducts)
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}

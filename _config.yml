@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "William X. Q. Ngiam"
 title_separator          : "-"
 name                     : &name "William X. Q. Ngiam"
-description              : &description "PhD Student at University of Sydney"
+description              : &description "Postdoctoral Researcher at the University of Chicago"
 url                      : https://WilliamNgiam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WilliamNgiam.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "William Ngiam"
   avatar           : "profile.jpg"
-  bio              : "Psychology PhD student at University of Sydney, researching the visual working memory system."
+  bio              : "Postdoctoral Researcher at the University of Chicago, interested in the neural mechanisms of attention and visual working memory."
   location         : "Sydney, Australia"
   employer         :
   googlescholar    : 

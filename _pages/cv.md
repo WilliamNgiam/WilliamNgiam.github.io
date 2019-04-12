@@ -20,12 +20,12 @@ Professional Experience
 ======
 
 <h3> Research </h3>
-* June 2017 - current: Statistical Assistant
+* June 2017 - December 2018: Statistical Assistant
   * **_Using interactive learning to integrate statistical theory with contemporary research practices_; University of Sydney Strategic Education Grant/Educational Innovation Grant**
   * Duties included: Designing and programming interactive learning apps to teach statistical concepts
   * Supervisor: Associate Professor Ben Colagiuri and Doctor Rebecca Pinkus
 
-* June 2017 - current: Research Assistant
+* June 2017 - December 2018: Research Assistant
   * **_The development of attentional control in children with and without anxiety_; University of Sydney Faculty of Science/Seed Funding**
   * Duties included: Programming experiments and data analysis
   * Supervisor: Doctor Micah Goldwater
@@ -46,19 +46,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Talks and Posters
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
  
+ 
 Skills
 ======
 * Programming experiments and analyses in MATLAB and R.
 * Conduct experiment including eyetracking (Eyelink) and EEG (BrainProducts)
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>

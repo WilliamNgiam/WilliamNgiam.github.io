@@ -7,6 +7,16 @@ author_profile: yes
 ---
 
 {% include base_path %}
+
+<h3> VSS 2019 </h3>
+* Examining the effect of memory compression with contralateral delay activity
+<object data="https://williamngiam.github.io/files/vss2019.pdf" type="application/pdf" width="700px" height="440px">
+    <embed src="https://williamngiam.github.io/files/vss2019.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/vss2019.pdf">View as PDF</a>.</p>
+    </embed>
+</object>
+    * [PDF](/files/vss2019.pdf)
+
 <h3> Psychonomics 2018 </h3>
 * Training recognition familiarity is insufficient to improve visual working memory
 <object data="https://williamngiam.github.io/files/psychonomics2018.pdf" type="application/pdf" width="700px" height="440px">

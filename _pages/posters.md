@@ -15,7 +15,7 @@ author_profile: yes
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/vss2019.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-    * [PDF](/files/vss2019.pdf)
+    * <font color="blue">[Download PDF](/files/vss2019.pdf)</font>
 
 <h3> Psychonomics 2018 </h3>
 * Training recognition familiarity is insufficient to improve visual working memory
@@ -24,7 +24,7 @@ author_profile: yes
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/psychonomics2018.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-  * [PDF](/files/psychonomics2018.pdf)
+  * <font color="blue">[Download PDF](/files/psychonomics2018.pdf)</font>
 
 <h3> VSS 2017 </h3>
 * Memory compression using statistical regularities requires explicit awareness
@@ -33,8 +33,8 @@ author_profile: yes
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/vss2017.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-  * [PDF](/files/vss2017.pdf)
-  * [Abstract](http://jov.arvojournals.org/article.aspx?articleid=2651730)
+  * <font color="blue">[Download PDF](/files/vss2017.pdf)
+  * [View Abstract](http://jov.arvojournals.org/article.aspx?articleid=2651730)</font>
 
 <h3> Psychonomics 2016 </h3>
 * Familiarity, but not visual complexity, affects letter encoding in visual working memory
@@ -43,4 +43,4 @@ author_profile: yes
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/psychonomics2016.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-  * [PDF](/files/psychonomics2016.pdf)
+  * <font "color="blue">[Download PDF](/files/psychonomics2016.pdf)</font>

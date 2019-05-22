@@ -15,7 +15,7 @@ author_profile: yes
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/vss2019.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-    * [Download PDF](/files/vss2019.pdf)
+  * [Download PDF](/files/vss2019.pdf)
 
 <h3> Psychonomics 2018 </h3>
 * Training recognition familiarity is insufficient to improve visual working memory

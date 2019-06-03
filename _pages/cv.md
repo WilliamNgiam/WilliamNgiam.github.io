@@ -14,10 +14,13 @@ author_profile: yes
 Education
 ======
 * Bachelor of Psychology (Honours), University of Sydney, 2014.
-* Doctor of Philosophy (Psychology), University of Sydney, 2019 (expected).
+* Doctor of Philosophy (Psychology), University of Sydney, 2019.
 
 Professional Experience
 ======
+<h3> Academic </h3>
+* May 2019 - present: Postdoctoral Researcher
+ * University of Chicago with Edward Awh and Edward Vogel.
 
 <h3> Research </h3>
 * June 2017 - December 2018: Statistical Assistant

@@ -1,12 +1,11 @@
 ---
 title: "Visual working memory for letter varies with familiarity but not complexity"
 collection: publications
+date: '2018-03-14'
+paperurl: http://dx.doi.org/10.1037/xlm0000682
 permalink: /publication/2018-14-03-Visual-working-memory-for-letters-varies-with-familiarity-but-not-complexity
-excerpt: 'This paper looks at whether stimulus complexity influences the encoding rate and capacity of the visual working memory system. Using letters of varying perimetric complexity, we find visual working memory performance is influenced by stimulus familiarity but not stimulus complexity.'
-date: 2018-03-14
-venue: 'Journal of Experimental: Learning, Memory and Cognition'
-paperurl: 'http://dx.doi.org/10.1037/xlm0000682'
 citation: 'Ngiam, W. X. Q., Khaw, K. L. C., Holcombe, A. O., & Goodbourn, P. T. (2018). Visual working memory for letters varies with familiarity but not complexity. Journal of Experimental Psychology: Learning, Memory and Cognition.'
+venue: 'Journal of Experimental Psychology: Learning, Memory and Cognition. http://dx.doi.org/10.1037/xlm0000682'
 ---
 
 ## Abstract

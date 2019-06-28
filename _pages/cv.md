@@ -9,7 +9,9 @@ author_profile: yes
 
 {% include base_path %}
 
+<u>
 [View as PDF](/_pages/curriculumvitae.pdf)
+</u>
 
 Education
 ======

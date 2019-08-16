@@ -9,9 +9,7 @@ author_profile: yes
 
 {% include base_path %}
 
-<u>
 [View as PDF](/_pages/curriculumvitae.pdf)
-</u>
 
 Education
 ======
@@ -51,13 +49,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
 Talks and Posters
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
- 
  
 Skills
 ======

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "William X. Q. Ngiam"
 title_separator          : "-"
 name                     : &name "William X. Q. Ngiam"
-description              : &description "Postdoctoral Research at University of Chicago"
+description              : &description "Postdoctoral Researcher at University of Chicago"
 url                      : https://WilliamNgiam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WilliamNgiam.github.io"
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

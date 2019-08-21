@@ -4,7 +4,7 @@ collection: publications
 date: '2018-03-14'
 paperurl: http://dx.doi.org/10.1037/xlm0000682
 permalink: /publication/2018-14-03-Visual-working-memory-for-letters-varies-with-familiarity-but-not-complexity
-citation: 'Ngiam, W. X. Q., Khaw, K. L. C., Holcombe, A. O., & Goodbourn, P. T. (2018). Visual working memory for letters varies with familiarity but not complexity. Journal of Experimental Psychology: Learning, Memory and Cognition. http://dx.doi.org/10.1037/xlm0000682'
+citation: 'Ngiam, W. X. Q., Khaw, K. L. C., Holcombe, A. O., & Goodbourn, P. T. (2018). Visual working memory for letters varies with familiarity but not complexity. Journal of Experimental Psychology: Learning, Memory and Cognition.'
 venue: 'Journal of Experimental Psychology: Learning, Memory and Cognition.'
 ---
 ### Abstract

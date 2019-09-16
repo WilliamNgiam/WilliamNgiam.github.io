@@ -12,12 +12,12 @@ author_profile: yes
 [View as PDF](/_pages/curriculumvitae.pdf)
 
 Education
-======
+-----
 * Bachelor of Psychology (Honours), University of Sydney, 2014.
 * Doctor of Philosophy (Psychology), University of Sydney, 2019.
 
 Professional Experience
-======
+------
 <h3> Academic </h3>
 * May 2019 - present: Postdoctoral Researcher
  * University of Chicago with Edward Awh and Edward Vogel.
@@ -44,19 +44,19 @@ Professional Experience
   * Research Methods in Honours Psychology, _University of Sydney_
 
 Publications
-======
+-----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks and Posters
-======
+-----
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
  
 Skills
-======
+-----
 * Programming experiments and analyses in MATLAB and R.
 * Conduct experiment including eyetracking (Eyelink) and EEG (BrainProducts)
 

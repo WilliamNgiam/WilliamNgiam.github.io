@@ -9,7 +9,7 @@ author_profile: yes
 
 {% include base_path %}
 
-[View as PDF](/_pages/curriculumvitae.pdf)
+<ul>[View as PDF](/_pages/curriculumvitae.pdf)</ul>
 
 Education
 -----
@@ -48,13 +48,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks and Posters
------
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
- 
+
 Skills
 -----
 * Programming experiments and analyses in MATLAB and R.

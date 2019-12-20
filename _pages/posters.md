@@ -8,6 +8,15 @@ author_profile: yes
 
 {% include base_path %}
 
+<h3> Psychonomics 2019 </h3>
+* "Memory compression" effects in visual working memory are contingent on explicit long-term memory
+<object data="https://williamngiam.github.io/files/psychonomics2019.pdf" type="application/pdf" width="700px" height="400px">
+    <embed src="https://williamngiam.github.io/files/psychonomics2019.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/psychonomics2019.pdf">View as PDF</a>.</p>
+    </embed>
+</object>
+[Download PDF](/files/psychonomics2019.pdf)
+
 <h3> VSS 2019 </h3>
 * Examining the effect of memory compression with contralateral delay activity
 <object data="https://williamngiam.github.io/files/vss2019.pdf" type="application/pdf" width="700px" height="440px">

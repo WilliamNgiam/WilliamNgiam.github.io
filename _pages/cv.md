@@ -9,7 +9,7 @@ author_profile: yes
 
 {% include base_path %}
 
-<ul>[View as PDF](/_pages/curriculumvitae.pdf)</ul>
+[View as PDF](/_pages/curriculumvitae.pdf)
 
 Education
 -----

@@ -6,10 +6,8 @@ permalink: /cv/
 redirect_from: /resume
 author_profile: yes
 ---
-
 {% include base_path %}
-
-<ul>[View as PDF](/_pages/curriculumvitae.pdf)</ul>
+[View as PDF](/_pages/curriculumvitae.pdf)
 
 Education
 -----
@@ -20,7 +18,7 @@ Professional Experience
 ------
 <h3> Academic </h3>
 * May 2019 - present: Postdoctoral Researcher
- * University of Chicago with Edward Awh and Edward Vogel.
+  * University of Chicago with Edward Awh and Edward Vogel.
 
 <h3> Research </h3>
 * June 2017 - December 2018: Statistical Assistant

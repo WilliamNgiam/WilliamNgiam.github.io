@@ -6,7 +6,9 @@ permalink: /cv/
 redirect_from: /resume
 author_profile: yes
 ---
+
 {% include base_path %}
+
 [View as PDF](/_pages/curriculumvitae.pdf)
 
 Education

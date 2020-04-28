@@ -9,7 +9,7 @@ author_profile: yes
 
 {% include base_path %}
 
-<a href="https://williamngiam.github.io/files/wxqn_cv.pdf">View/Download as PDF</a>
+<u><a href="https://williamngiam.github.io/files/wxqn_cv.pdf">View/Download as PDF</a></u>
 
 Education
 -----

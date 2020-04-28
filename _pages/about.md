@@ -16,6 +16,6 @@ I completed my PhD at the University of Sydney, under the supervision of [Alex H
 
 I am passionate about improving science through reproducible and open science practices. I founded the ReproducibiliTea journal club at the University of Chicago and am an instructor with [The Carpentries](https://carpentries.org/) to teach introductory coding and data science skills.
 
-### This Website
+On this website, you will find preprints of my publications, my conference posters and my conference talk slides. I hope to add blog posts and other content in the future! The best way to follow me is via my Twitter:
 
-On this website, you will find preprints of my publications, my conference posters and conference presentation slides. I hope to add blog posts and other content in the future!
+<a class="twitter-timeline" href="https://twitter.com/will_ngiam?ref_src=twsrc%5Etfw">Tweets by will_ngiam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

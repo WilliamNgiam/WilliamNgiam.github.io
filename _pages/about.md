@@ -14,20 +14,12 @@ I am a postdoctoral researcher at the University of Chicago in the [AwhVogelLab]
 
 I completed my PhD at the University of Sydney, under the supervision of [Alex Holcombe](http://www.openwetware.org/wiki/Holcombe) and [Patrick Goodbourn](https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/gbb/gbb-lab). My thesis was on the influence of chunking and learning on visual working memory capacity.
 
-I am passionate about improving science through reproducible and open science practices. I founded the ReproducibiliTea journal club at the University of Chicago and am an instructor with [The Carpentries](https://carpentries.org/) to teach introductory coding and data science skills.
+I am passionate about improving science through reproducible and open science practices. I founded the ReproducibiliTea journal club at the University of Chicago (see my most recent YouTube video below) and am an instructor with [The Carpentries](https://carpentries.org/) to teach introductory coding and data science skills.
+
+<iframe width="500" height="340" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=Ngiammy26" frameborder="0" allowfullscreen></iframe>
 
 On this website, you will find preprints of my publications, my conference posters and my conference talk slides. I hope to add blog posts and other content in the future! The best way to follow me is via my Twitter:
 
-<table width=1000px>
-  <tr>
-    <td style = width:100%>      
-      <a class="twitter-timeline" data-width="500" data-height="340" data-theme="light" href="https://twitter.com/will_ngiam?ref_src=twsrc%5Etfw">Tweets by will_ngiam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    </td>
-    <td align="left" valign="top">
-      <iframe width="500" height="340" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=Ngiammy26" frameborder="0" allowfullscreen></iframe>
-    </td>
-  </tr>
-</table>
-
+<a class="twitter-timeline" data-width="500" data-height="340" data-theme="light" href="https://twitter.com/will_ngiam?ref_src=twsrc%5Etfw">Tweets by will_ngiam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     
 

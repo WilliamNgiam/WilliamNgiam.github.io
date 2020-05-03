@@ -18,4 +18,4 @@ I am passionate about improving science through reproducible and open science pr
 
 On this website, you will find preprints of my publications, my conference posters and my conference talk slides. I hope to add blog posts and other content in the future! The best way to follow me is via my Twitter:
 
-<a class="twitter-timeline" href="https://twitter.com/will_ngiam?ref_src=twsrc%5Etfw">Tweets by will_ngiam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="500" data-height="750" data-theme="light" href="https://twitter.com/will_ngiam?ref_src=twsrc%5Etfw">Tweets by will_ngiam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

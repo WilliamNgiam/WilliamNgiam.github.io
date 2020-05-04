@@ -16,8 +16,10 @@ I completed my PhD at the University of Sydney, under the supervision of [Alex H
 
 I am passionate about improving science through reproducible and open science practices. I founded the ReproducibiliTea journal club at the University of Chicago (see my most recent YouTube video below) and am an instructor with [The Carpentries](https://carpentries.org/) to teach introductory coding and data science skills.
 
+<div style="width:500px;height:340px">
 <iframe width="500" height="340" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=Ngiammy26" frameborder="0" allowfullscreen></iframe>
-
+</div>
+<br>
 
 On this website, you will find preprints of my publications, my conference posters and my conference talk slides. I hope to add blog posts and other content in the future! The best way to follow me is via my Twitter:
 

@@ -15,7 +15,7 @@ author_profile: yes
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/psychonomics2019.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-[Download PDF](/files/psychonomics2019.pdf)
+<u><a href="https://williamngiam.github.io/files/psychonomics2019.pdf">Download PDF</a></u>
 
 <h3> VSS 2019 </h3>
 * Examining the effect of memory compression with contralateral delay activity
@@ -24,7 +24,7 @@ author_profile: yes
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/vss2019.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-[Download PDF](/files/vss2019.pdf)
+<u><a href="https://williamngiam.github.io/files/vss2019.pdf">Download PDF</a></u>
 
 <h3> Psychonomics 2018 </h3>
 * Training recognition familiarity is insufficient to improve visual working memory
@@ -33,7 +33,7 @@ author_profile: yes
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/psychonomics2018.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-[Download PDF](/files/psychonomics2018.pdf)
+<u><a href="https://williamngiam.github.io/files/psychonomics2018.pdf">Download PDF</a></u>
 
 <h3> VSS 2017 </h3>
 * Memory compression using statistical regularities requires explicit awareness
@@ -42,9 +42,9 @@ author_profile: yes
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/vss2017.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-[Download PDF](/files/vss2017.pdf)
+<u><a href="https://williamngiam.github.io/files/vss2017.pdf">Download PDF</a></u>
 <br>
-[View Abstract](http://jov.arvojournals.org/article.aspx?articleid=2651730)
+<u><a href="http://jov.arvojournals.org/article.aspx?articleid=2651730">View Abstract</a><u>
 
 <h3> Psychonomics 2016 </h3>
 * Familiarity, but not visual complexity, affects letter encoding in visual working memory
@@ -53,4 +53,4 @@ author_profile: yes
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/psychonomics2016.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-[Download PDF](/files/psychonomics2016.pdf)
+<u><a href="https://williamngiam.github.io/files/psychonomics2016.pdf">Download PDF</a></u>

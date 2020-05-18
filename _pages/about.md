@@ -11,10 +11,7 @@ I am a postdoctoral researcher at the University of Chicago in the [Awh/Vogel La
 
 I am also passionate about improving science through reproducible and open practices. I founded the ReproducibiliTea journal club at the University of Chicago (see my most recent YouTube video below) and am an instructor with [The Carpentries](https://carpentries.org/) to teach introductory coding and data science skills. 
 
-<div style="width:640px;height:360px">
-<iframe width="80%";height="80%" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=Ngiammy26" frameborder="0" allowfullscreen></iframe>
-</div>
-<br>
+<iframe width="80%" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=Ngiammy26" frameborder="0" allowfullscreen></iframe>
 
 On this website, you will find preprints of my publications, my conference posters and my conference talk slides. I hope to add blog posts and other content in the future! The best way to follow me is via my Twitter:
 

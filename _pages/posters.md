@@ -8,7 +8,7 @@ author_profile: yes
 
 {% include base_path %}
 
-<h3> Psychonomics 2019 </h3>
+<h2> Psychonomics 2019 </h2>
 * "Memory compression" effects in visual working memory are contingent on explicit long-term memory
 <object data="https://williamngiam.github.io/files/psychonomics2019.pdf" type="application/pdf" width="700px" height="400px">
     <embed src="https://williamngiam.github.io/files/psychonomics2019.pdf">
@@ -17,7 +17,7 @@ author_profile: yes
 </object>
 <u><a href="https://williamngiam.github.io/files/psychonomics2019.pdf">Download PDF</a></u>
 
-<h3> VSS 2019 </h3>
+<h2> VSS 2019 </h2>
 * Examining the effect of memory compression with contralateral delay activity
 <object data="https://williamngiam.github.io/files/vss2019.pdf" type="application/pdf" width="700px" height="440px">
     <embed src="https://williamngiam.github.io/files/vss2019.pdf">
@@ -26,7 +26,7 @@ author_profile: yes
 </object>
 <u><a href="https://williamngiam.github.io/files/vss2019.pdf">Download PDF</a></u>
 
-<h3> Psychonomics 2018 </h3>
+<h2> Psychonomics 2018 </h2>
 * Training recognition familiarity is insufficient to improve visual working memory
 <object data="https://williamngiam.github.io/files/psychonomics2018.pdf" type="application/pdf" width="700px" height="440px">
     <embed src="https://williamngiam.github.io/files/psychonomics2018.pdf">
@@ -35,7 +35,7 @@ author_profile: yes
 </object>
 <u><a href="https://williamngiam.github.io/files/psychonomics2018.pdf">Download PDF</a></u>
 
-<h3> VSS 2017 </h3>
+<h2> VSS 2017 </h2>
 * Memory compression using statistical regularities requires explicit awareness
 <object data="https://williamngiam.github.io/files/vss2017.pdf" type="application/pdf" width="700px" height="440px">
     <embed src="https://williamngiam.github.io/files/vss2017.pdf">
@@ -46,7 +46,7 @@ author_profile: yes
 <br>
 <u><a href="http://jov.arvojournals.org/article.aspx?articleid=2651730">View Abstract</a><u>
 
-<h3> Psychonomics 2016 </h3>
+<h2> Psychonomics 2016 </h2>
 * Familiarity, but not visual complexity, affects letter encoding in visual working memory
 <object data="https://williamngiam.github.io/files/psychonomics2016.pdf" type="application/pdf" width="700px" height="440px">
     <embed src="https://williamngiam.github.io/files/psychonomics2016.pdf">

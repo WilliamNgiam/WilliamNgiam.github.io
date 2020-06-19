@@ -13,44 +13,51 @@ author_profile: yes
 
 Education
 -----
-* Bachelor of Psychology (Honours), University of Sydney, 2014.
-* Doctor of Philosophy (Psychology), University of Sydney, 2019.
+* __Doctor of Philosophy (Psychology)__, University of Sydney, 2015-2019
+    * Supervisor: Professor Alex Holcombe
+* __Bachelor of Psychology (Honours)__, University of Sydney, 2011-2014
+    * Supervisor: Dr Patrick Goodbourn
 
-Professional Experience
+
+Employment
 ------
-<h3> Academic </h3>
-* May 2019 - present: Postdoctoral Researcher
+* __Postdoctoral Researcher__, University of Chicago, 2019-present
   * University of Chicago with Edward Awh and Edward Vogel.
 
-<h3> Research </h3>
-* June 2017 - December 2018: Statistical Assistant
-  * **_Using interactive learning to integrate statistical theory with contemporary research practices_; University of Sydney Strategic Education Grant/Educational Innovation Grant**
-  * Duties included: Designing and programming interactive learning apps to teach statistical concepts
-  * Supervisor: Associate Professor Ben Colagiuri and Doctor Rebecca Pinkus
+* __Statistical Assistant__, University of Sydney, 2017
+  * _Using interactive learning to integrate statistical theory with contemporary research practices_; University of Sydney Strategic Education Grant/Educational Innovation Grant
+* __Research Assistant__, University of Sydney, 2017-2018
+  * _The development of attentional control in children with and without anxiety_; University of Sydney Faculty of Science/Seed Funding
 
-* June 2017 - December 2018: Research Assistant
-  * **_The development of attentional control in children with and without anxiety_; University of Sydney Faculty of Science/Seed Funding**
-  * Duties included: Programming experiments and data analysis
-  * Supervisor: Doctor Micah Goldwater
+* __Lecturer__, University of Sydney, Summer 2018
+  * _Introduction to Psychology (PSYC1001)_
+* __Teaching Assistant__, University of Sydney, 2016
+  * _Research Methods in Honours Psychology_
+* __Teaching Assistant__, University of Sydney, 2015, 2017
+  * _Advanced Statistics for Psychology (PSYC3010)_
+* __Teaching Assistant__, University of Sydney, 2015-2018
+	* _Statistics and Research Methods for Psychology (PSYC2012)_
 
-<h3> Teaching </h3>
-* Summer School 2018: Lecturer
-  * Introduction to Psychology (PSYC1001), _University of Sydney_
-* 2015 - 2017: Tutor
-	* Statistics and Research Methods for Psychology (PSYC2012), _University of Sydney_
-* 2015, 2017: Tutor
-  * Advanced Statistics for Psychology (PSYC3010), _University of Sydney_
-* 2016: Tutor
-  * Research Methods in Honours Psychology, _University of Sydney_
+Miscellaneous
+-----
+* __Founder__ of the University of Chicago ReproducibiliTea Journal Club, 2020
+
 
 Publications
 -----
+(click for abstract)
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
------
-* Programming experiments and analyses in MATLAB and R.
-* Conduct experiment including eyetracking (Eyelink) and EEG (BrainProducts)
 
+Conference Talks
+-----
+(click to view)
+
+* Talks
+
+  <ul>{% for post in site.talks %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

@@ -7,11 +7,10 @@ redirect_from: /resume
 author_profile: yes
 ---
 
-<html lang="en">
 <u><a href="https://williamngiam.github.io/files/wxqn_cv.pdf">View/Download as PDF</a></u>
-<br>
-<body>
-	<body style="width:100%; height:100%; margin:0;" data="http://williamngiam.github.io/files/wxqn_cv.pdf" type="application/pdf" width="750px" height="750px">
-	    <iframe src="https://docs.google.com/gview?url=http://williamngiam.github.io/files/wxqn_cv.pdf&emeeded=true" type="application/pdf">
-	    </iframe>
-</body
+
+<object data="https://williamngiam.github.io/files/wxqn_cv.pdf" type="application/pdf" width="400px" height="570px">
+    <embed src="https://williamngiam.github.io/files/wxqn_cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/wxqn_cv.pdf">View as PDF</a>.</p>
+    </embed>
+</object>

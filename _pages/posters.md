@@ -8,6 +8,16 @@ author_profile: yes
 
 {% include base_path %}
 
+<h2> Virtual VSS 2020 </h2>
+* Object-based memories revealed by whole-report for dual-feature stimuli
+<object data="https://williamngiam.github.io/files/vss2020.pdf" type="application/pdf" width="700px" height="585px">
+    <embed src="https://williamngiam.github.io/files/vss2020.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/vss2020.pdf">View as PDF</a>.</p>
+    </embed>
+</object>
+<u><a href="https://williamngiam.github.io/files/vss2020.pdf">Download PDF</a></u>
+<u><a href="https://www.youtube.com/watch?v=ByDhxxk51Yc">Poster Tour Video</a></u>
+
 <h2> Psychonomics 2019 </h2>
 * "Memory compression" effects in visual working memory are contingent on explicit long-term memory
 <object data="https://williamngiam.github.io/files/psychonomics2019.pdf" type="application/pdf" width="700px" height="400px">

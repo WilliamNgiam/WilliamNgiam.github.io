@@ -79,10 +79,10 @@ analytics:
 # Site Author
 author:
   name             : "William XQ Ngiam"
-  avatar           : "2019_profile_red.jpg"
+  avatar           : "2019_profile_red_square.jpg"
   bio              : "Cognitive Neuroscientist at the University of Chicago"
   location         : "Chicago, USA"
-  employer         :
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=EW1iZEMAAAAJ"
   email            : "wngiam@uchicago.edu"
   uri              :

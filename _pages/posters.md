@@ -1,5 +1,6 @@
 ---
 title: "Posters"
+layout: archive
 permalink: /posters/
 redirect_from: /posters
 author_profile: yes
@@ -17,8 +18,8 @@ Jump to: [VSS 2020](#VSS2020) \| [Psychonomics 2019](#PNOM2019) \| [VSS 2019](#V
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/vss2020.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-<a href="https://williamngiam.github.io/files/vss2020.pdf">Download PDF</a><br>
-<a href="https://www.youtube.com/watch?v=ByDhxxk51Yc">Poster Tour Video</a>
+<u><a href="https://williamngiam.github.io/files/vss2020.pdf">Download PDF</a></u><br>
+<u><a href="https://www.youtube.com/watch?v=ByDhxxk51Yc">Poster Tour Video</a></u>
 
 <a name="PNOM2019"></a>
 ## Psychonomics 2019
@@ -29,7 +30,7 @@ Jump to: [VSS 2020](#VSS2020) \| [Psychonomics 2019](#PNOM2019) \| [VSS 2019](#V
     </embed>
 </object>
 </a>
-<a href="https://williamngiam.github.io/files/psychonomics2019.pdf">Download PDF</a>
+<u><a href="https://williamngiam.github.io/files/psychonomics2019.pdf">Download PDF</a></u>
 
 <a name="VSS2019"></a>
 ## VSS 2019
@@ -40,7 +41,7 @@ Jump to: [VSS 2020](#VSS2020) \| [Psychonomics 2019](#PNOM2019) \| [VSS 2019](#V
     </embed>
 </object>
 </a>
-<a href="https://williamngiam.github.io/files/vss2019.pdf">Download PDF</a>
+<u><a href="https://williamngiam.github.io/files/vss2019.pdf">Download PDF</a></u>
 
 <a name="PNOM2018"></a>
 ## Psychonomics 2018
@@ -51,7 +52,7 @@ Jump to: [VSS 2020](#VSS2020) \| [Psychonomics 2019](#PNOM2019) \| [VSS 2019](#V
     </embed>
 </object>
 </a>
-<a href="https://williamngiam.github.io/files/psychonomics2018.pdf">Download PDF</a>
+<u><a href="https://williamngiam.github.io/files/psychonomics2018.pdf">Download PDF</a></u>
 
 <a name="VSS2017"></a>
 ## VSS 2017
@@ -63,7 +64,7 @@ Jump to: [VSS 2020](#VSS2020) \| [Psychonomics 2019](#PNOM2019) \| [VSS 2019](#V
 </object>
 <u><a href="https://williamngiam.github.io/files/vss2017.pdf">Download PDF</a></u>
 <br>
-<a href="http://jov.arvojournals.org/article.aspx?articleid=2651730">View Abstract</a>
+<u><a href="http://jov.arvojournals.org/article.aspx?articleid=2651730">View Abstract</a><u>
 
 <a name="PNOM2016"></a>
 ## Psychonomics 2016
@@ -73,4 +74,4 @@ Jump to: [VSS 2020](#VSS2020) \| [Psychonomics 2019](#PNOM2019) \| [VSS 2019](#V
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/psychonomics2016.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-<a href="https://williamngiam.github.io/files/psychonomics2016.pdf">Download PDF</a>
+<u><a href="https://williamngiam.github.io/files/psychonomics2016.pdf">Download PDF</a></u>

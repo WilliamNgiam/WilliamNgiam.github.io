@@ -1,5 +1,6 @@
 ---
-title: A personal highlight from 2020: ReproducibiliTea
+title: A personal highlight from 2020 - ReproducibiliTea
+permalink: /blog/2020_ReproducibiliTea
 ---
 
 I have been doing a bit of reflection on the year, and one of the most rewarding things I did in 2020 was founding and organizing the <a href="https://reproducibilitea.org" target="_blank">ReproducibiliTea Journal Club</a> at the University of Chicago! ReproducibiliTea started as a grassroots initiative in 2018 and has since become a global community centered on meta-science, discussing and improving research practices in response to the reproducibility crisis in science.

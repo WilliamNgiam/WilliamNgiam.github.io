@@ -2,7 +2,7 @@
 main:
 
   - title: "Blogs"
-    url: /blogs/
+    url: /year-archive/
 
   - title: "Publications"
     url: /publications/

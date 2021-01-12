@@ -1,7 +1,7 @@
 ---
 title: "Estimating the statistical power to detect set size effects in contralateral delay activity"
 collection: publications
-date: '2020-16-12'
+date: '2020-12-16'
 paperurl: http://dx.doi.org/10.1037/xlm0000682
 permalink: /CDA_Downsampling
 citation: 'Ngiam, W. X. Q., Adam, K. C. S., Quirk, C., Vogel, E. K., Awh, E. (submitted). Estimating the statistical power to detect set size effects in contralateral delay activity.'

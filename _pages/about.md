@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at the University of Chicago in the [Awh/Vogel Lab](https://awhvogellab.github.io) studying _visual working memory_, the visual information maintained online for ongoing perception and cognition. Previously, I completed my PhD at the University of Sydney under the supervision of [Alex Holcombe](http://www.openwetware.org/wiki/Holcombe) and [Patrick Goodbourn](https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/gbb/gbb-lab).
+I am a postdoctoral researcher at the University of Chicago in the [Awh/Vogel Lab](https://awhvogellab.github.io) studying _visual working memory_, the visual information maintained online for ongoing perception and cognition. I completed my PhD at the University of Sydney under the supervision of [Alex Holcombe](http://www.openwetware.org/wiki/Holcombe) and [Patrick Goodbourn](https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/gbb/gbb-lab).
 
-I am also passionate about improving science through reproducible and open practices. I founded the ReproducibiliTea journal club at the University of Chicago (see my most recent YouTube video below) and am an instructor with [The Carpentries](https://carpentries.org/) to teach introductory coding and data science skills. 
+I am also passionate about improving science, particularly by empowering early-career researchers to pursue reproducible and open practices. I founded and co-organize the ReproducibiliTea journal club at the University of Chicago, and [recently joined the steering committee of ReproducibiliTea](https://reproducibilitea.org/jc/2021/01/28/a-new-year,-a-new-reproducibilitea-steering-committee)! I also am a qualified instructor with [The Carpentries](https://carpentries.org/) to teach introductory coding and data science skills. 
 
 <div style="width:640px;height:360px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvEVmzy7-Q_3PeZG_XDmalVO3lFXtjbtk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

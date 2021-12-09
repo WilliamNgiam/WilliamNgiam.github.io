@@ -16,7 +16,6 @@ I am also passionate about improving science, particularly by empowering early-c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvEVmzy7-Q_3PeZG_XDmalVO3lFXtjbtk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 On this website, you will find preprints of my publications, my conference posters and talk slides. I hope to add blog posts and other content in the future! The best way to follow me is via my Twitter (@will_ngiam), see below:
 
 <a class="twitter-timeline" data-width="640" data-height="360" data-theme="light" href="https://twitter.com/will_ngiam?ref_src=twsrc%5Etfw">Tweets by will_ngiam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

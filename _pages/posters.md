@@ -8,7 +8,18 @@ author_profile: yes
 
 {% include base_path %}
 
-_Jump to:_ [VSS 2020](#VSS2020) \| [Psychonomics 2019](#PNOM2019) \| [VSS 2019](#VSS2019) \| [Psychonomics 2018](#PNOM2018) \| [VSS 2017](#VSS2017) \| [Psychonomics 2016](#PNOM2016) \|
+_Jump to:_ [VSS2022](#VSS2022) \| [VSS 2020](#VSS2020) \| [Psychonomics 2019](#PNOM2019) \| [VSS 2019](#VSS2019) \| [Psychonomics 2018](#PNOM2018) \| [VSS 2017](#VSS2017) \| [Psychonomics 2016](#PNOM2016) \|
+
+
+<a name="VSS2022"></a> 
+## VSS 2022
+* Evidence for object-based encoding into visual working memory
+<object data="https://williamngiam.github.io/files/vss2022.pdf" type="application/pdf" width="700px" height="400px">
+    <embed src="https://williamngiam.github.io/files/vss2022.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/vss2022.pdf">View as PDF</a>.</p>
+    </embed>
+</object>
+<u><a href="https://williamngiam.github.io/files/vss2022.pdf">Download PDF</a></u><br>
 
 <a name="VSS2020"></a> 
 ## Virtual VSS 2020

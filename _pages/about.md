@@ -16,6 +16,8 @@ On this website, you will find preprints of my publications, my conference poste
 
 <a class="twitter-timeline" data-width="640" data-height="360" data-theme="light" href="https://twitter.com/will_ngiam?ref_src=twsrc%5Etfw">Tweets by will_ngiam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/01FiRQIak2dqgDbAR3L8ZZ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 <div style="width:640px;height:360px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvEVmzy7-Q_3PeZG_XDmalVO3lFXtjbtk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

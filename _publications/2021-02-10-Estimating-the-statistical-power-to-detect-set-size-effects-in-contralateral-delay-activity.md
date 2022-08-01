@@ -12,7 +12,7 @@ The contralateral delay activity (CDA) is an event-related potential component c
 
 ### ShinyApp
 
-<iframe height="800px" width="100%" frameborder="no" src="https://williamngiam.shinyapps.io/CDAPower/"> </iframe>
+<iframe height="1000px" width="100%" frameborder="no" src="https://williamngiam.shinyapps.io/CDAPower/"> </iframe>
 
 **[Preprint](https://psyarxiv.com/nbvkc)**
 

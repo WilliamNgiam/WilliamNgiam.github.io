@@ -31,7 +31,7 @@ Once at their job, they will be under the mentorship of a new supervisor whose m
   
 And there’s [no certainty afforded in their future](https://www.nature.com/articles/d41586-020-03381-3). Postdocs are being turned away from academic careers. In navigating a hypercompetitive job market (one with a disparity between stable research careers and the number of hopeful postdocs), postdocs are left burnt by a string of rejections. Research institutions often advertise one, perhaps two, career openings and receive hundreds of applications. Note, these positions are usually for associate professorships in the US, or lectureships in the UK/Australia, or the equivalent elsewhere – ones that don’t provide long-term stability of livelihoods because they still require research grant funding and the pursuit of promotions and tenure.
 
-Nature conducted an inaugural survey of postdoctoral researchers recently. I don’t even need to show you the data, here are the tiles of their Career Feature articles that came from it:
+Nature conducted an inaugural survey of postdoctoral researchers recently. I don’t even need to show you the data, here are the titles of their Career Feature articles that came from it:
   
 -   [Pandemic darkens postdocs’ work and career hopes](https://www.nature.com/articles/d41586-020-02548-2)  
 -   [Postdoc survey reveals disenchantment with working life](https://www.nature.com/articles/d41586-020-03191-7)

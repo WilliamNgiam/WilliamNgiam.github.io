@@ -1,11 +1,11 @@
 ---
-title: Reform the postdoc, return hope to science.**
+title: Reform the postdoc, return hope to science.
 permalink: /blog/reform_the_postdoc
 ---
 
 I’ve recently reached the end of renowned chef David Chang’s autobiography, *Eat A Peach*, which I enthusiastically recommend. There are some surprising parallels between the culinary industry and academia, and his lens on the former is relevant and insightful. In the afterword, on the impact of the pandemic on the culinary industry, he writes:
 
-*“And while what’s happened in the past few months has generated incredibly painful realizations about our society, we must hold on to hope. As impossible as it may seem, I believe that we can build a better version of our world…”*
+*“And while what’s happened in the past few months has generated incredibly painful realizations about our society, **we must hold on to hope**. As impossible as it may seem, I believe that we can build a better version of our world…”*
 
 It’s a nice sentiment. As I read that, I started to get the idea that postdocs are the ones who represent hope for a better science – think of the next line chef that could go on to start the newest Michelin hat restaurant. 
 

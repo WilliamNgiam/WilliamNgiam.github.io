@@ -45,10 +45,10 @@ I think this presents a hopeful vision – a structure of science that would rew
 
 ### So, what are we waiting for?
 
-Many scientists think it's a great idea (check out [the replies](https://twitter.com/kareem_carr/status/1562826129995509760?s=20&t=fhqLh8esCyrpmKBMoHzF0g) to the idea on Twitter), and CRediT is already adopted by many publishers such as the Public Library of Science (PLOS), eLife and Cell Press (see list here: https://credit.niso.org/adopters/). It's a matter of getting everyone in the know and establishing CRediT as standard across science – norming its use across all levels and contexts. Here are my ideas on ways this can be achieved:
+Many scientists think it's a great idea (check out [the replies](https://twitter.com/kareem_carr/status/1562826129995509760?s=20&t=fhqLh8esCyrpmKBMoHzF0g) to the idea on Twitter), and CRediT is already adopted by many publishers such as the Public Library of Science (PLOS), eLife and Cell Press (see list here: [https://credit.niso.org/adopters/](https://credit.niso.org/adopters/)). It's a matter of getting everyone in the know and establishing CRediT as standard across science – norming its use across all levels and contexts. Here are my ideas on ways this can be achieved:
 
 **For individual researchers:**
-- Discuss with your research collaborators about their contributions within the CRediT framework, ideally at the begining of your next project. The [*tenzing*](https://rollercoaster.shinyapps.io/tenzing/)app is a useful online tool for organizing contributions and automating the output.
+- Discuss with your research collaborators about their contributions within the CRediT framework, ideally at the begining of your next project. The [*tenzing*](https://rollercoaster.shinyapps.io/tenzing/) app is a useful online tool for organizing contributions and automating the output.
 - Promote CRediT within your lab, including having open discussions with the head of the lab as to what should be credited as a contribution.
 - Conducting metascience research with the CRediT metadata.
 - Add CRediT to your academic CV to denote the contribution you made in each publication.
@@ -73,9 +73,9 @@ Many scientists think it's a great idea (check out [the replies](https://twitter
 
 ### References and Further Resources
 
-Holcombe, A. O. (2019). Contributorship, not authorship: Use CRediT to indicate who did what. _Publications_, _7_(3), 48. https://www.mdpi.com/2304-6775/7/3/48.
+Holcombe, A. O. (2019). Contributorship, not authorship: Use CRediT to indicate who did what. _Publications_, _7_(3), 48. [https://www.mdpi.com/2304-6775/7/3/48](https://www.mdpi.com/2304-6775/7/3/48).
 
-The *tenzing* tool automates the author contribution text output to add into your next research manuscript. See: Holcombe, A. O., Kovacs, M., Aust, F., & Aczel, B. (2020). Documenting contributions to scholarly articles using CRediT and tenzing. _PLoS One_, _15_(12), e0244611. -   [https://doi.org/10.1371/journal.pone.0244611](https://doi.org/10.1371/journal.pone.0244611) [Link to *tenzing* ShinyApp](https://rollercoaster.shinyapps.io/tenzing/)
+The *tenzing* tool automates the author contribution text output to add into your next research manuscript. [Link to *tenzing* ShinyApp](https://rollercoaster.shinyapps.io/tenzing/) See: Holcombe, A. O., Kovacs, M., Aust, F., & Aczel, B. (2020). Documenting contributions to scholarly articles using CRediT and tenzing. _PLoS One_, _15_(12), e0244611. -   [https://doi.org/10.1371/journal.pone.0244611](https://doi.org/10.1371/journal.pone.0244611) 
 
 I wrote an article on how contributorship may address marginialization of early-career researchers in scientific publications, ["Fully Credited: Making Publishing More Equitable"](https://www.psychologicalscience.org/observer/fully-credited-making-publishing-more-equitable).
 
@@ -83,8 +83,7 @@ If you'd like to hear early-career researchers perspectives about CRediT, [Sarah
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1aNAFDGSgGpF2AbjLxWj8H?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-Some further information on implementing CRediT, hoested by the National Information Standards Organization (NISO): https://credit.niso.org/implementing-credit/.
+Some further information on implementing CRediT, hoested by the National Information Standards Organization (NISO): ([https://credit.niso.org/implementing-credit/](https://credit.niso.org/implementing-credit/)).
 
 <sup>1</sup> *incentives*. A reference to Tal Yarkoni's famed blogpost – ["It's not The Incentives, it's you"](https://www.talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/).
-
 <sup>2</sup> Thank you to Gavin Taylor and the Nowhere Lab for sending me this useful article on how to change systems.

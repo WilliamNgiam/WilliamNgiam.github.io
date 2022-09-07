@@ -59,7 +59,7 @@ Many scientists think it's a great idea (check out [the replies](https://twitter
 
 **For institutions:**
 - Mandate the use of CRediT for all research outputs, ensuring all contributors are fairly and equitably recognized.
-- Make assessments on **contributions** to research rather than publications. This could be when awarding graduate students with their degrees, tenure and promotion criteria, or perhaps even creating research specialist careers dedicated to needed contributions.
+- Make assessments on **contributions** to research rather than publications. This could be when awarding graduate students with their degrees, tenure and promotion criteria, or perhaps most importantly, employing based on needed and potential contributions to research outputs rather than arbitrary standards and 'fit'.
 
 **For societies/publishers:**
 - Standardizing and highlighting the research contributions with any submission. At conferences, this could be publishing abstracts with research contributions rather than authors, and encouraging presenters to display the CRediT roles on their talk slides or posters.
@@ -86,4 +86,4 @@ If you'd like to hear early-career researchers perspectives about CRediT, [Sarah
 Some further information on implementing CRediT, hoested by the National Information Standards Organization (NISO): ([https://credit.niso.org/implementing-credit/](https://credit.niso.org/implementing-credit/)).
 
 <sup>1</sup> *incentives*. A reference to Tal Yarkoni's famed blogpost – ["It's not The Incentives, it's you"](https://www.talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/).<br>
-<sup>2</sup> Thank you to Gavin Taylor and the Nowhere Lab for sending me this useful article on how to change systems.
+<sup>2</sup> Thank you to Gavin Taylor and [the Nowhere Lab](https://www.twitter.com/theNowhereLab) for sending me this useful article on how to change systems. Further thanks to them for allowing me to lead a meeting and discuss this blogpost!

@@ -5,6 +5,7 @@ tags:
 	- science reform
 	- postdoc
 	- academia
+
 ---
 
 I’ve recently reached the end of renowned chef David Chang’s autobiography, *Eat A Peach*, which I enthusiastically recommend. There are some surprising parallels between the culinary industry and academia, and his lens on the former is relevant and insightful. In the afterword, on the impact of the pandemic on the culinary industry, he writes:

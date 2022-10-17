@@ -1,6 +1,12 @@
 ---
 title: The growing pains of open scholarship
 permalink: /blog/growing_pains_of_open_scholarship
+toc: true
+tags:
+    - science reform
+    - contributorship
+    - incentives
+
 ---
 
 As open scholarship becomes more embedded in academic structures, its players are negotiating different challenges that are coming to the fore. Recent discussion in science reform Twitter circles has been about potential conflicts caused by the products of open scholarship (preprints, open data and open code). On the surface, it may appear that open scholarship is causing more issues but here, I'll suggest that it's the same old underlying problem, and that the science reform movement should prioritize action on that problem.

@@ -1,8 +1,6 @@
 ---
 title: Realizing my Asian identity matters in science
 permalink: /blog/realizing_my_Asian_identity_matters
-tags:
-	- identity
 ---
 *This blogpost is a personal exploration into my racial identity and how it may have interacted with my life in science. Looking Asian but sounding Australian, I feel like I'm stuck in the middle. Through privilege and naïveté, I somehow missed what being Asian in science meant. I think being open about our experiences can be incredibly helpful to starting conversations and producing positive change, and I wholheartedly believe diversity in science is incredibly important and needed.* 
 

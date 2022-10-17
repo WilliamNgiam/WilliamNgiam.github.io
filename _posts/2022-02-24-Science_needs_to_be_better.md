@@ -4,7 +4,6 @@ permalink: /blog/science_needs_to_be_better
 tags:
 	- science reform
 	- postdoc
-	
 ---
 
 It's late into a Chicago winter – the snow is *finally* melting, the cold is *finally* lifting, the daylight is *finally* lasting longer. Many are looking forward to the summer where the city will revive, social possibilities will emerge and the **weight** of the past half-year will be lifted. It seems to me that in many ways, science is looking forward to a similar return to normalcy. A return to less restrictions on data collection, inspiring in-person conferences, business as usual. 

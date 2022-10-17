@@ -1,6 +1,9 @@
 ---
 title: Science needs to be better, not simply 'return to normal'
-pemralink: /blog/science_needs_to_be_better
+permalink: /blog/science_needs_to_be_better
+tags:
+	- science reform
+	- postdoc
 ---
 
 It's late into a Chicago winter – the snow is *finally* melting, the cold is *finally* lifting, the daylight is *finally* lasting longer. Many are looking forward to the summer where the city will revive, social possibilities will emerge and the **weight** of the past half-year will be lifted. It seems to me that in many ways, science is looking forward to a similar return to normalcy. A return to less restrictions on data collection, inspiring in-person conferences, business as usual. 
@@ -49,4 +52,4 @@ An issue I see across these two examples is that it requires the action of **ent
 
 I've spent a long while trying to make science better or think of ways that science could be better and I'm tired. I don't know if I'll be able to keep going if science returns to normal. 
 
-_Edit (3/4/22): Since publicizing this post, I've received so much validation and encouragement that I'm truly grateful for. It's inspiring to see that there is **kindness** in science, though I still wish there was more support available in our academic structures. And hey, I do now appear on my department's website so hopefully that's a sign of things to come. Who said reform isn't achievable? 
+_Edit (3/4/22): Since publicizing this post, I've received so much validation and encouragement that I'm truly grateful for. It's inspiring to see that there is **kindness** in science, though I still wish there was more support available in our academic structures. And hey, I do now appear on my department's website so hopefully that's a sign of things to come. Who said reform isn't achievable?_

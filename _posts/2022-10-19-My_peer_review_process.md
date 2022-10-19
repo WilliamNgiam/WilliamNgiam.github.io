@@ -1,7 +1,6 @@
 ---
 title: My peer review process
 permalink: /blog/my_peer_review_process
-toc: true
 tags:
     - peer review
  
@@ -108,5 +107,7 @@ As I stated at the start of this post, my goal with sharing my review process wa
 *Thank you to Kim Meidenbauer and Priya Silverstein for comments on early drafts of this blogpost and their support.*
 
 <sup>1</sup> Scientific journals seem to moreso bungle the peer review process despite their ownership of its overview. Importantly, the [Peer Community In (PCI) network](https://peercommunityin.org/) has been striving to remedy this.
+
 <sup>2</sup> Thank you to Alison Ledgerwood who shared this reference as part of a discussion in the Journal Editors Discussion Interface (JEDI).
+
 <sup>3</sup> I have found differences in sample sizes and the dataset in three of my reviews.

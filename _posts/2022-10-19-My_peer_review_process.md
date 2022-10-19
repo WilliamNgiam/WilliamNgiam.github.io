@@ -11,8 +11,8 @@ As a junior scientist, the peer review process was a total mystery, part of a so
 
 I also get the feeling that my ethos and approach to the review is substantially different from others, and wanted to invite commentary and comparison. I want to **stress** that I do not believe I am close to doing it the 'best way' and do not wish to set a standard that others should adhere to. Rather I am opening my process to criticism, inviting scrutiny and excoriation, which may provide some impetus for discussion on aspects of the review process or indeed the wider mechanisms for how science curates and publishes its outputs.<sup>1</sup>
 
-## My review process
-### 1. Deciding whether to accept or decline a review
+# My review process
+## 1. Deciding whether to accept or decline a review
 There are numerous factors that influence my decision to accept or decline a review, varying in how much they impact my decision with each invitation. I have made an attempt here to order them in priority:
 
 **My (perceived) current work load**:
@@ -31,14 +31,14 @@ Some concrete indicators that go into my perceived load are any upcoming confere
 * **The content**: I read the abstract attached to the review request and make a judgment on it's relevance to my research, as well as whether I will potentially gain something from reviewing it – a new perspective, better understanding of a research method, a new empirical finding.
 * **My expertise**: As I consider the relevance of the content, I make a judgment on whether I have the appropriate expertise to provide a high-quality review. I mainly consider this in two domains: my content expertise that my own papers could speak to (say theory-based), and my research method expertise (say familiarity with research paradigm and statistical analysis).
 
-### 2. Attitude towards the purpose of peer review
+## 2. Attitude towards the purpose of peer review
 I think it is really important to uphold an ethos around peer review in science. For me, as the *supposed* **quality control** mechanism in science, I am foremost trying to be critical and verify the rigor of the research – to me, this means scrutinizing the quality of the research and statistical methods, the transparency and openness of the research outputs, and the evidence for the scientific inferences that are being made. 
 
 But I think just as importantly, I am trying to improve the research and manuscript with my comments, rather than solely judging it for whether it is acceptable for the journal. I find that if one is focused solely on making a judgment, there's a risk of taking a sledgehammer to the manuscript and having the review become an unhelpful and unkind list of research flaws and conceptual disagreements. I believe having the intention to improve the manuscript lends oneself to writing more effective reviews – one can still be critical but write their review constructively and kindly, rather than harshly. I am also of the belief that encouraging a more communal rather than combative attitude will likely help promote participation of women, people of color and other underrepresented populations in science ([Murphy et al., 2020](https://www.pnas.org/doi/full/10.1073/pnas.1921320117))<sup>2</sup>.
 
 Further, one might start to bias their decision with the 'prestige' of the journal and are at risk to gatekeep certain work from publication due to a hidden internal value system (a bias that I do not wish to have in my review, and a value I do not wish to promote in science). I rather not have the judgment as the *sole* priority, but aim to hopefully provide a thorough review that the action editor, who can consolidate all the reviews, can use to make the best decision. That being said, I will ultimately make a recommendation on whether the manuscript should be published. I believe the reviewer has an important role to play in curating what content is published, and as such, do not think that making no decision or not being selective with the recommendation (say requesting "major revisions" for every manuscript) in an unconsidered manner to be productive for scientific progress. Not all papers deserve to be "published", and by not being selective, we are at risk of perpetuating academic urban legends ([Rekdal, 2014](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)).   
 
-### 3. Reading and proofing the manuscript
+## 3. Reading and proofing the manuscript
 I will often read through the manuscript many times over the course of the review. I like to read it from beginning to end, Introduction to Discussion, the first time. As I read the manuscript through for the first time, I highlight and note down any relevant thoughts and feelings – perhaps passages where I get stuck or confused reading, questions or past studies that pop up in my mind or even when I disagree or dislike claims. Recording these first impressions help me understand any initial biases and positions I may have, and so in turn, I can try to lessen their influence on my review. 
 
 I will sometimes include my position or understanding as a preface to my major comments in the review because I think sharing my perspective can help provide the context, and help the authors or editor evaluate the critique. For example, I may have a different understanding about a paper that is referenced or a process within a model, and by sharing that, the authors can evaluate whether my comments were sensible or from a misunderstanding (I am certainly fallible!), and to make clarifications in their review response and/or in the writing of their manuscript.
@@ -47,7 +47,7 @@ I do include in the minor comments section of my review, any typographical error
 
 When I do make those 'rephrasing' comments, I'm not dissecting the syntax and grammar of the manuscript throughout, but morseo I report where I experienced points of confusion as a naïve reader, and make suggestions that I think better clarify the ideas at hand. These suggestions are often made to the author in a 'take it or leave it' manner – I think it's tough for authors to predict what a naïve reader may be thinking!
 
-### 4. Checking preregistrations, open data and code
+## 4. Checking preregistrations, open data and code
 As an advocate for Open Science, I believe that one aspect of the research worth reviewing is its transparency and reproducibility such as through preregistration, open data and code. An often-made argument for open scholarship is that it enables reviewers to catch errors and prevent fraud, and so I do try to uphold that. I will do this regardless of the journal venue, and whether or not Open Science badges are awarded at the journal venue.
 
 With preregistrations, I usually check:
@@ -65,7 +65,7 @@ For those that do preregister their studies and/or share their data and code, I 
 
 For those that do not, I often encourage the authors to make their research reproducible through sharing their data and code, saying I wish I could have informed my review with access to them. There have been many times where I resolved my own misunderstanding about what was reported in the manuscript after looking at the data. I will often make a comment that an analysis code or the dataset would be very useful for others to learn from or recreate in future studies!
 
-### 5. Checking the statistical analyses and inferences
+## 5. Checking the statistical analyses and inferences
 The first thing that I do is to run a quick check for errors in reporting the test statistics through [http://statcheck.io](http://statcheck.io/).  It's surprising how many times it has found an error (usually typos) from the quick check! I will also cross-check the values with any provided statistical outputs, such as an SPSS output file or the rare RMarkdown file, just to make sure they line up.
 
 I always check the sample sizes and the number of trials for each experiment. In recent times, I have also conducted some parameter recovery and model recovery analyses (likely because there is substantial modelling work in my research field of visual working memory). I find that this gives me a sense for **effect sizes** and **statistical power** of the design, helping me evaluate whether the effect that is being reported is likely to be credible and reliable. Further, this will help me evaluate whether the inferences being made, and *how they are being made*, are consistent with the evidence of the findings. 
@@ -74,10 +74,10 @@ I think all researchers (I have to admit myself included) have a tendency to rep
 
 I want to explicitly note here that I do not readily evaluate the *originality* or *novelty* of the research that scientific journals usually covet – perhaps only when authors make the extraordinary claim that they are making an *entirely* novel contribution as to add a new name to the discovery, without rigorously confirming the empirical phenomenon or by ignoring past research. I care about reproducible and replication research, I care about considered and thoughtful experiment designs, and I care about credible scientific inferences linked to current and relevant theory – not a splashy but probably spurious positive finding, we already have many of those.
 
-### 6. Checking the figures
+## 6. Checking the figures
 I think data visualizations are very important in research papers – if done well, it can bring clarity to the statistical analyses being conducted, helping the reader better understand the results. If I find a figure confusing or difficult to interpret, I will usually comment on that with a suggestion that I believe will help improve the figure. This has most often been to add data points to bar graphs to provide a sense for the overall distribution, or more precise axis labels and ticks to better establish and evaluate what is being presented or compared.
 
-### 7. Writing the review
+## 7. Writing the review
 Finally, scrutinizing all the elements of the manuscript after one last read-through, I'm ready to write the review. I typically include three sections in my review: **summary**, **major comments**, and **minor comments**. 
 
 * The **summary** includes a brief overview of the research manuscript – the number of experiments, the key method and measures and the notable findings. Then I will report my overall perspective on the paper, noting to compliment any credible parts of the work, and summarizing my comments and concerns in the review. I often include in this paragraph whether there are any gaps in my expertise, and anything else that I think is worth emphasizing upfront. Together, this serves a few purposes: to evidence that I have read and engaged with the manuscript, to provide context of my review for the editor, and for the authors to see what I have emphasized or highlighted.
@@ -90,7 +90,7 @@ Finally, scrutinizing all the elements of the manuscript after one last read-thr
 
 I don't set a word limit or page limit on my reviews. They have been approximately 1000 words on average (according to Publons, across 25 verified reviews). I accept that this is likely on the longer end, perhaps too long, but I think it equates to how thoroughly I am conducting the review, especially when I report the results of any reproducibility checks I did. I do try to be concise and ensure I am being as constructive as possible in my review, despite the length.
 
-### 8. Signing my review
+## 8. Signing my review
 I have signed all my reviews by adding the following statement underneath my name at the end of the review:
 
 > I sign all my reviews, regardless of the recommendation to the editor. By signing this review, I affirm that I have made my best attempt to be polite and respectful while providing criticism and feedback that is hopefully helpful and reasonable.
@@ -99,10 +99,10 @@ I sign my reviews so that I am accountable for the contents of my review, includ
 
 There are reasons not to sign a review – revealing one's identity makes the reviewer vulnerable to retaliation. I get the feeling that I'm likely a more 'difficult' reviewer than most, so perhaps I have built a negative reputation as a result. I'm yet to have experienced any direct retaliation personally, but I am afraid that will happen someday. Nevertheless, I think by being accountable and transparent in my review, what is gained by signing the review outweighs this personal risk.
 
-### 9. Making a recommendation
+## 9. Making a recommendation
 There is some variation between journals in the decisions that one can recommend, but typically they are *accept*, *minor revisions*, *major revisions*, *reject*. As I noted above, I do try to be selective with my recommendation here rather than suggesting the same decision (say major revisions) for every manuscript I review. I try to make this decision without the journal venue in mind, holding a consistent criterion as best as I can – in actuality, I think with a conscientious and thorough review, the recommendation is usually pretty straightforward. If I think the paper has easy-to-take steps to address my comments, and it would not require my attention, then I will recommend *accept* or *minor revisions*. If my concerns are such that I think that a significant rewrite is needed, or I would need to be convinced by secondary statistical analyses, then I will recommend *major revisions*. And if I find significant flaws with the research design, I would recommend *reject*.
 
-## Comments?
+# Comments?
 As I stated at the start of this post, my goal with sharing my review process was not to set a standard, but to invite scrutiny and discussion about parts of the review process. At the very least, I'm grateful for any criticism that will help me improve my contributions to science. For lack of a better forum for discussion, perhaps the best place will be to comment on Twitter.
 
 *Thank you to Kim Meidenbauer and Priya Silverstein for comments on early drafts of this blogpost and their support.*

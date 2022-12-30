@@ -1,5 +1,5 @@
 ---
-title: "Visual working memory for letter varies with familiarity but not complexity"
+title: "Visual working memory for letters varies with familiarity but not complexity"
 collection: publications
 date: '2019-10-01'
 paperurl: http://dx.doi.org/10.1037/xlm0000682

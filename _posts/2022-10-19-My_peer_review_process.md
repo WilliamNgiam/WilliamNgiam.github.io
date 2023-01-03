@@ -113,7 +113,7 @@ As I stated at the start of this post, my goal with sharing my review process wa
 
 <sup>3</sup> I have found differences in sample sizes and the dataset in three of my reviews.
 
-This blogpost has been uploaded as a PDF document to Zenodo here: https://zenodo.org/record/7502567, where it has been assigned a DOI: https://doi.org/10.5281/zenodo.7502567.
+This blogpost has been uploaded as a PDF document to Zenodo here: [https://zenodo.org/record/7502567](https://zenodo.org/record/7502567), where it has been assigned a DOI: [https://doi.org/10.5281/zenodo.7502567](https://doi.org/10.5281/zenodo.7502567).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7502567.svg)](https://doi.org/10.5281/zenodo.7502567)
 

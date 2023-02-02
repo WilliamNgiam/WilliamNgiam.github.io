@@ -1,8 +1,9 @@
 ---
-title: On theory, postdocs, and Jeremys
+title: Theory, postdocs, and Jeremys
 permalink: /blog/on_theory_postdocs_and_Jeremy
 tags:
-	- postdoc
+    - postdoc
+    - year in review
 
 ---
 

@@ -21,7 +21,7 @@ In the year prior, I wrote about [finally starting to think about what being Asi
 
 I think postdocs are unique because they are at the career stage where a scientist starts to find their individualism. No longer is the main ambition to learn from classes or a research supervisor. A postdoc can break away from the ideas, the methods, the rules that have been impressed upon them – it's a time to start thinking for oneself. Of course, it is not so easy to do science your way – not all lab environments can or do provide the opportunities to grow, and some actions may instead be met with resistance. 
 
-We've finally come to the **one thing that I learnt in 2022**:
+We've finally come to the **one defining thing that I learnt in 2022**:
 
 **Think a lot about the theory in your science, and work to develop it. From there, you will find your voice.**
 

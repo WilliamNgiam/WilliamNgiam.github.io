@@ -1,0 +1,49 @@
+---
+title: On theory, postdocs, and Jeremys
+permalink: /blog/on_theory_postdocs_and_Jeremy
+tags:
+	- postdoc
+
+---
+
+*I thought I would mark the end of the calendar year by searching for what was most formative from that year, science-wise – perhaps an event, lesson or realization that I think best defined my growth for that year. I am not sure how many years I have left in science but if I do find myself in an academic career, perhaps I will have created a list of lessons learned as I journeyed in science.*
+
+At the start of 2022, I allowed myself to have unbridled optimism: *"This will be the year that I **breakout**"*. The lab was getting back to in-person data collection. I felt good about completing a couple of projects, and felt hopeful about their potential impact. I saw myself taking big steps forward in science; I envisioned parallels to Jeremy Lin's *Linsanity* moment – coming off the bench and out of obscurity, scoring 25 points and leading the New York Knicks to victory in the Madison Square Garden, and capturing the attention of the NBA fanbase and further over the course of an electric few months.
+
+My optimism was short-lived. Motivation plummeted when the projects stalled, further unsettled by slim job prospects and a yet-to-be-renewed postdoc contract. I felt unrecognized for efforts on multiple fronts: the problem solving and emotional labor of rebuilding a lab, the advocacy for reform to research practices and academic structures at my affiliated institution and broadly. It spiralled into feeling inconsequential and helpless. It was, in part, the unresolved wear from two stifling pandemic years, where my science was impeded after being locked in work-from-home isolation. (My blogpost in Feburary captures what I was wrestling with and my state of mind at this time: https://williamngiam.github.io/blog/science_needs_to_be_better).
+
+It was also, in part, the challenge of being both a **postdoc** and **international** in current times. Postdocs are precarious, they come with no guarantee of a future livelihood despite immense investment. It's like the journeyman athlete who is signed on temporary contracts and repeatedly kicked from team to team – they're expected to uproot each time, show up to their new team's practice and make a contribution. The contribution might not result in seeing any actual time on the court, it might mean playing a role in scrimmages to better the team's star players. Jeremy Lin, the aforementioned hero, similarly went unsigned and bounced from team to team, sleeping on teammates' couches, before he got his opportunity. 
+
+In the same way, postdocs often play that role – they often provide mentoring and emotional support to the graduate students in the lab, while also keeping their supervisors up-to-date with current trends in their field, sometimes by conducting the cutting-edge research themselves. Postdocs make significant contributions to science, but without the stability that is afforded by a faculty position or the attention and support that is given to graduate students. And I don't think it has to be that way – postdoctoral fellowships kind of fell out like that. (My blogpost on reforming the postdoc: https://williamngiam.github.io/blog/reform_the_postdoc).
+
+In the year prior, I wrote about [finally starting to think about what being Asian in science meant](https://williamngiam.github.io/blog/realizing_my_Asian_identity_matters). This continued to be on the forefront of my mind as hate crimes on Asian-Americans increased. My dreams of wanting to **break out** science-wise is only partly egomania; it comes from decades of being overlooked as a race in popular culture (and I think in science) – minor *inferior* roles that perpetuate such stereotypes like being submissive and unworthy of attention. It comes from decades of being othered – having a slur yelled at you on the road while walking into a scientific conference, the constant navigation of visa immigration processes. It's feeling like you don't get a say in discussions of your research field – that you are left off the list of relevant research in presentations at prestigious conferences. Jeremy Lin, our aformetioned hero again, was overlooked – receiving no college scholarship offers despite leading his high school to a state championship, and went unselected in the NBA draft despite many accolades with Harvard – likely in part from being Asian.
+
+I think postdocs are unique because they are at the career stage where a scientist starts to find their individualism. No longer is the main ambition to learn from classes or a research supervisor. A postdoc can break away from the ideas, the methods, the rules that have been impressed upon them – it's a time to start thinking for oneself. Of course, it is not so easy to do science your way – not all lab environments can or do provide the opportunities to grow, and some actions may instead be met with resistance. 
+
+We've finally come to the **one thing that I learnt in 2022**:
+
+**Think a lot about the theory in your science, and work to develop it. From there, you will find your voice.**
+
+In 2022, I realized that perhaps one of the important factors underpinning the reproducibility crisis in psychological science is a lack of theoretical development. I did a lot of thinking about **preregistration** – I followed the discussions around it, participated in conference panels on preregistration, and read widely to prepare an introductory reading list. 
+
+<object data="https://williamngiam.github.io/files/preregistration_reading_list.pdf" type="application/pdf" width="828x" height="900px">
+    <embed src="https://williamngiam.github.io/files/preregistration_reading_list.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/preregistration_reading_list.pdf">View as PDF</a>.</p>
+    </embed>
+</object>
+
+I recommended the practice to early-career researchers as I believe doing so will improve one's science, but I kept stressing the stipulation that a preregistration was not sufficient for rigorous science – it needed to be grounded **on theory**. Those words felt empty; I wasn't satisfied with being unable to provide a way one could do that. So, I ended up reading widely on theory in psychology, and I learned about the lack of well-defined theory that motivate research designs – an over-reliance on blunt measures of psychological phenomena and the hypothetico-deductive method has likely lead to underdetermined experiments and shaky inferences.
+
+<object data="https://williamngiam.github.io/files/theory_in_psychology_reading_list.pdf" type="application/pdf" width="828x" height="900px">
+    <embed src="https://williamngiam.github.io/files/theory_in_psychology_reading_list.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/theory_in_psychology_reading_list.pdf">View as PDF</a>.</p>
+    </embed>
+</object>
+
+This dovetailed with my fears of being boxed into a theoretical camp. There's been a long-standing, tired debate in my research area of visual working memory – *slots versus resources*. My supervisors are prominent voices for one side (the *slots* camp), and I fear that opinions of my research and me are superficially seen through that lens and easily dismissed. It's perhaps a cost that just comes with the spotlight on my supervisors. But it's not exactly what *I* believe or think! Again, it's the fear of not being taken seriously, a fear of not being reputable enough to state a theoretical position.
+
+But I now understand that fields of psychological researchers are (probably) collectively on shaky theoretical foundations! We now turn our attention to another Jeremy, but one who is no less a superstar – I'm sure many cognitive psychologists have heard of Jeremy Wolfe. Near the end of the year, I watched Jeremy, as his indomitable self, give a keynote address at *Psychonomics* late in the year. In many ways similar to Jeremy Lin dropping 38 points against Kobe Bryant and the Los Angeles Lakers at the peak of *Linsanity*, it was as much a memorable performance on one of the biggest stages (literally perhaps). I remember taking in *Guided Search 6.0*, his huge map of all things visual search that equalled his impact on that research field in size. It was so detailed that the text on some of the model's components was not easy to read from where I sat in the crowded function room, despite the massive screens projecting his slides. From that, I realized that there is so much that any early-career resesarcher can sink their teeth into, and really impactfully define and make their own.
+
+Anyway, I think I've found a very simple thing to shout for now – that the *slots versus resources* debate is, in my opinion, a *totally* misguided one. Perhaps the whole field knew that, but I think it explicitly needs to be retired. Like Jeremy's *Guided Search 6.0*, visual working memory – its capacity, its mechanisms, its functions – cannot possibly be defined in such simple dualistic terms. Memory is an elusive, multi-faceted, wonderful thing!
+
+That is, by scrutinizing the theoretical underpinnings of the papers that I have repeatedly poured over, even the motivations of my own research designs, I've started to better understand the phenomena that researchers are trying to capture with their models and their words. I think I now can better situate my own research in the context of the field, and hope to design studies that are more conclusive and impactful – I'm putting it to the test in 2023. I've since started to regain my self-belief and find my voice – I'm still riding the bench, but just you wait when I get my opportunity to be on the court.

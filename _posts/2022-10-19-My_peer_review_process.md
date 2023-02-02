@@ -6,6 +6,7 @@ tags:
     - peer review
  
 ---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7502567.svg)](https://doi.org/10.5281/zenodo.7502567)
 
 As a junior scientist, the peer review process was a total mystery, part of a so-called 'hidden curriculum' of science. The *standards and expectations* in the peer review process were only revealed to me when I began submitting papers and conducting peer reviews in my first year as a postdoc. Even now as a fourth year postdoc, I am still encountering new situations. While there exists a small proportion of peer reviews that are accessible, it is usually only the final review output that is visible. I have not found many resources where researchers share or iterate their review process. Most guides from journals are not updated for the Open Science movement and mostly provide stylistic recommendations for the writing. I thought I would share my peer review process to help junior scientists gain insight into the review and publication process. (For the sake of focus, I won't explicitly detail the benefits of doing a review for an early-career researcher here, but I'll allude to them throughout this post.) 
 

@@ -40,7 +40,6 @@ _Jump to:_ [VSS2022](#VSS2022) \| [VSS 2020](#VSS2020) \| [Psychonomics 2019](#P
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/psychonomics2019.pdf">View as PDF</a>.</p>
     </embed>
 </object>
-</a>
 <u><a href="https://williamngiam.github.io/files/psychonomics2019.pdf">Download PDF</a></u>
 
 <a name="VSS2019"></a>

@@ -14,7 +14,7 @@ I am passionate about **improving science**, particularly by empowering early-ca
 
 I grew up in Sydney, Australia, where I completed my PhD, at the University of Sydney under the supervision of <a href="http://www.openwetware.org/wiki/Holcombe" target="_blank">Alex Holcombe</a> and <a href="https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/gbb/gbb-lab" target="_blank">Patrick Goodbourn</a>. I'm a 7-time marathon finisher, espresso coffee enthusiast, and I spent 65,023 minutes listening on Spotify last year.
 
-On this website, you will find my preprints, conference posters, talk slides and blog posts. The best way to keep up-to-date on what I am doing is via my Twitter (<a href="https://www.twitter.com/will_ngiam" target = "_blank">@will_ngiam</a>), and feel free to email me at <a href=mailto:wngiam@uchicago.edu>wngiam(at)uchicago(dot)edu</a>.
+On this website, you will find my preprints, conference posters, talk slides and blog posts. The best way to keep up-to-date on what I am doing is via my Twitter (<a href="https://www.twitter.com/will_ngiam" target = "_blank">@will_ngiam</a>), and feel free to email me at <a href="mailto:wngiam@uchicago.edu">wngiam(at)uchicago(dot)edu</a>.
 
 ## Twitter
 

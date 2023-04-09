@@ -20,7 +20,7 @@ _Jump to:_ [Introduction to Open Science](#intro) \| [Theory in Psychological Sc
     frameborder="0"
     allowfullscreen
     webkitallowfullscreen
->
+></iframe>
 
 <a name="theory"></a>
 ## Theory in Psychological Science
@@ -32,7 +32,7 @@ _Jump to:_ [Introduction to Open Science](#intro) \| [Theory in Psychological Sc
     frameborder="0"
     allowfullscreen
     webkitallowfullscreen
->
+></iframe>
 
 <a name="prereg"></a>
 ## Preregistration
@@ -44,5 +44,5 @@ _Jump to:_ [Introduction to Open Science](#intro) \| [Theory in Psychological Sc
     frameborder="0"
     allowfullscreen
     webkitallowfullscreen
->
+></iframe>
 

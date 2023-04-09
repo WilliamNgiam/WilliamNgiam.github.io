@@ -13,6 +13,9 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "Reading Lists"
+    url: /reading_lists/
+
   - title: "CV"
     url: /cv/
 

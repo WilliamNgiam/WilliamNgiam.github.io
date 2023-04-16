@@ -17,7 +17,7 @@ _Jump to:_ [**Introduction to Open Science**](#intro) \| [**Theory in Psychologi
 <iframe src="https://mfr.de-1.osf.io/render?url=https://osf.io/download/qxbcs/?direct%26mode=render"
     width="100%"
     scrolling="yes"
-    height="100%px"
+    height="920"
     marginheight="0"
     frameborder="0"
     allowfullscreen
@@ -29,7 +29,7 @@ _Jump to:_ [**Introduction to Open Science**](#intro) \| [**Theory in Psychologi
 <iframe src="https://mfr.de-1.osf.io/render?url=https://osf.io/download/sugtp/?direct%26mode=render"
     width="100%"
     scrolling="yes"
-    height="100%"
+    height="1100"
     marginheight="0"
     frameborder="0"
     allowfullscreen
@@ -41,7 +41,7 @@ _Jump to:_ [**Introduction to Open Science**](#intro) \| [**Theory in Psychologi
 <iframe src="https://mfr.de-1.osf.io/render?url=https://osf.io/download/9tf6e/?direct%26mode=render"
     width="100%"
     scrolling="yes"
-    height="100%"
+    height="920"
     marginheight="0"
     frameborder="0"
     allowfullscreen

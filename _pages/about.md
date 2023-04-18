@@ -27,5 +27,5 @@ On this website, you will find my preprints, conference posters, talk slides and
 ## YouTube
 
 <div style="width:640px;height:360px">
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvEVmzy7-Q_3PeZG_XDmalVO3lFXtjbtk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640px" height="360px" src="https://www.youtube.com/embed/videoseries?list=PLvEVmzy7-Q_3PeZG_XDmalVO3lFXtjbtk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

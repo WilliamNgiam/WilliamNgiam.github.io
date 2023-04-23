@@ -13,3 +13,5 @@ Visual working memory (VWM) is limited in both the capacity of information it ca
 **[View Preprint](https://psyarxiv.com/cxkw5)**
 
 **[Data and Code](https://osf.io/4by2f/)**
+
+**[Add to Zotero](https://zotero.org/save?type=doi&q=10.1037/xlm0000682)**

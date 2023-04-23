@@ -15,3 +15,5 @@ There is consistent debate over whether capacity in working memory (WM) is subje
 **[Preprint](https://psyarxiv.com/bkdya)**
 
 **[PDF](https://williamngiam.github.io/files/guess_bands.pdf)**
+
+**[Add to Zotero](https://zotero.org/save?type=doi&q=10.3758/s13414-022-02631-y)**

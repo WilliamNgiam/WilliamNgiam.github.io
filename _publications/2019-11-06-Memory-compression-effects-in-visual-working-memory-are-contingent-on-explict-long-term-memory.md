@@ -13,3 +13,5 @@ Brady, Konkle and Alvarez (2009) argued that statistical learning boosts the num
 **[View Preprint](https://awhvogellab.files.wordpress.com/2019/06/ngiam-brissenden-and-awh-2019-preprint.pdf)**
 
 **[Data and Code](https://osf.io/9c4rj/)**
+
+**[Add to Zotero](https://zotero.org/save?type=doi&q=10.1037/xge0000649)**

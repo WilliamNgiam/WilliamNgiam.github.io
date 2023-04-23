@@ -29,3 +29,5 @@ On this website, you will find my preprints, conference posters, talk slides and
 <div style="width:640px;height:360px">
 <iframe width="640px" height="360px" src="https://www.youtube.com/embed/videoseries?list=PLvEVmzy7-Q_3PeZG_XDmalVO3lFXtjbtk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<a rel="me" href="https://fediscience.org/@will_ngiam"></a>

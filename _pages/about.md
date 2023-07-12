@@ -16,10 +16,6 @@ I grew up in Sydney, Australia, where I completed my PhD, at the University of S
 
 On this website, you will find my preprints, conference posters, talk slides and blog posts. The best way to keep up-to-date on what I am doing is via my Twitter (<a href="https://www.twitter.com/will_ngiam" target = "_blank">@will_ngiam</a>), and feel free to email me at <a href="mailto:wngiam@uchicago.edu">wngiam(at)uchicago(dot)edu</a>.
 
-## Twitter
-
-<a class="twitter-timeline" data-width="100%" data-height="360" data-theme="light" href="https://twitter.com/will_ngiam?ref_src=twsrc%5Etfw">Tweets by will_ngiam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## ReproducibiliTea Podcast
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2GJINNCIydCMldGdP02dII?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

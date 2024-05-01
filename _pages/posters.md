@@ -8,7 +8,17 @@ author_profile: yes
 
 {% include base_path %}
 
-_Jump to:_ [OPAM2023](#OPAM2023) \| [VSS2023](#VSS2023) \| [VSS2022](#VSS2022) \| [VSS 2020](#VSS2020) \| [Psychonomics 2019](#PNOM2019) \| [VSS 2019](#VSS2019) \| [Psychonomics 2018](#PNOM2018) \| [VSS 2017](#VSS2017) \| [Psychonomics 2016](#PNOM2016) \|
+_Jump to:_ [CNS2024](#CNS2024) \| [OPAM2023](#OPAM2023) \| [VSS2023](#VSS2023) \| [VSS2022](#VSS2022) \| [VSS 2020](#VSS2020) \| [Psychonomics 2019](#PNOM2019) \| [VSS 2019](#VSS2019) \| [Psychonomics 2018](#PNOM2018) \| [VSS 2017](#VSS2017) \| [Psychonomics 2016](#PNOM2016) \|
+
+<a name="CNS2024"></a> 
+## CNS2024
+* Attentional tracking drives contralateral delay activity in a dual working memory and object tracking task
+<object data="https://williamngiam.github.io/files/CNS2024.pdf" type="application/pdf" width="700px" height="400px">
+    <embed src="https://williamngiam.github.io/files/CNS2024.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://williamngiam.github.io/files/CNS2024.pdf">View as PDF</a>.</p>
+    </embed>
+</object>
+<u><a href="https://williamngiam.github.io/files/CNS2024.pdf">Download PDF</a></u><br>
 
 <a name="OPAM2023"></a> 
 ## OPAM 2023

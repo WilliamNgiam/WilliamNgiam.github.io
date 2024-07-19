@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "William XQ Ngiam"
 title_separator          : "-"
 name                     : &name "William XQ Ngiam"
-description              : &description "Postdoctoral researcher at University of Chicago studying visual attention and working memory."
+description              : &description "Lecturer in the School of Psychology at Adelaide University"
 url                      : https://WilliamNgiam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WilliamNgiam.github.io"
@@ -81,10 +81,10 @@ author:
   name             : "William XQ Ngiam"
   avatar           : "ngiam_2023.jpg"
   bio              : "Lecturer in the School of Psychology at the University of Adelaide. Steering committee member of ReproducibiliTea. Open Practices Editor at Attention, Perception, & Psychophysics"
-  location         : "Chicago, USA"
+  location         : "Adelaide, Australia"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=EW1iZEMAAAAJ"
-  email            : "wngiam@uchicago.edu"
+  email            : "william.ngiam@adelaide.edu.au"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "williamngiam"
-  mastodon         : "@will_ngiam"
+  mastodon         :
   orcid            : "http://orcid.org/0000-0003-3567-3881"
   pinterest        :
   soundcloud       :

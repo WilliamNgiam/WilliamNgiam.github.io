@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "William XQ Ngiam"
   avatar           : "ngiam_2023.jpg"
-  bio              : "Lecturer in the School of Psychology at the University of Adelaide. Steering committee member of ReproducibiliTea. Open Practices Editor at Attention, Perception, & Psychophysics"
-  location         : "Adelaide, Australia"
-  employer         : 
+  bio              : "Cognitive neuroscientist studying attention and working memory. Advocate for early-career researchers in Open Science through ReproducibiliTea. Open Practices Editor at Attention, Perception, & Psychophysics."
+  location         : "Adelaide, South Australia"
+  employer         : "School of Psychology, Adelaide University"
   googlescholar    : "https://scholar.google.com/citations?user=EW1iZEMAAAAJ"
   email            : "william.ngiam@adelaide.edu.au"
   uri              :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "will_ngiam"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

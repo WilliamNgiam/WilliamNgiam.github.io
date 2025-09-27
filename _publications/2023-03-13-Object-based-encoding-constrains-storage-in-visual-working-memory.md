@@ -4,7 +4,7 @@ collection: publications
 date: '2023-03-13'
 paperurl: 'https://doi.org/10.1037/xge0001479'
 permalink: /publication/2023_conjunction
-citation: 'Ngiam, W. X. Q., Loetscher, K., & Awh, E. (2023). Object-based encoding constrains storage in visual working memory. Journal of Experimental Psychology: General'
+citation: 'Ngiam, W. X. Q., Loetscher, K., & Awh, E. (2024). Object-based encoding constrains storage in visual working memory. Journal of Experimental Psychology: General'
 venue: 'Journal of Experimental Psychology: General'
 ---
 ### Abstract

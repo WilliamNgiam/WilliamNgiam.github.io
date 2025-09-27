@@ -4,7 +4,7 @@ collection: publications
 date: '2022-06-25'
 paperurl: 'https://doi.org/10.3758/s13414-022-02631-y'
 permalink: /publication/2022_AP&P
-citation: 'Ngiam, W. X. Q., Foster, J. J., Adam, K. C. S., & Awh, E. (2022). Distinguishing guesses from fuzzy memories: Further evidence for item limits in visual working memory. Attention, Perception, & Psychophysics.'
+citation: 'Ngiam, W. X. Q., Foster, J. J., Adam, K. C. S., & Awh, E. (2023). Distinguishing guesses from fuzzy memories: Further evidence for item limits in visual working memory. Attention, Perception, & Psychophysics.'
 venue: 'Attention, Perception, & Psychophysics'
 ---
 ### Abstract

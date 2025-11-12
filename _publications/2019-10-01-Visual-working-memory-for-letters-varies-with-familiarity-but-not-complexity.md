@@ -3,7 +3,7 @@ title: "Visual working memory for letters varies with familiarity but not comple
 collection: publications
 date: '2019-10-01'
 paperurl: http://dx.doi.org/10.1037/xlm0000682
-permalink: /publication/2019_JEPLMC
+permalink: /publication/familiarity-not-complexity
 citation: 'Ngiam, W. X. Q., Khaw, K. L. C., Holcombe, A. O., & Goodbourn, P. T. (2019). Visual working memory for letters varies with familiarity but not complexity. Journal of Experimental Psychology: Learning, Memory and Cognition, 45(10), 1761-1775.'
 venue: 'Journal of Experimental Psychology: Learning, Memory and Cognition.'
 ---

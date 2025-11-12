@@ -3,7 +3,7 @@ title: "Estimating the statistical power to detect set size effects in contralat
 collection: publications
 date: '2021-02-10'
 paperurl: 'https://doi.org/10.1111/psyp.13791'
-permalink: /publication/2021_Psychophysiology
+permalink: /publication/CDA-power
 citation: 'Ngiam, W. X. Q., Adam, K. C., Quirk, C., Vogel, E. K., & Awh, E. (2021). Estimating the statistical power to detect set‐size effects in contralateral delay activity. Psychophysiology, 58(5), e13791.'
 venue: 'Psychophysiology'
 ---

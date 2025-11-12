@@ -3,8 +3,8 @@ title: "Item-based parsing of dynamic scenes in a combined attentional tracking 
 collection: publications
 date: '2025-04-18'
 paperurl: 'https://doi.org/10.1162/jocn.a.96'
-permalink: /publication/2025_item-based
-citation: 'Styrkowiec, P. P., Ngiam, W. X. Q., Epstein, W., Gneezy, R., Jones, H. M., Awh, E., & Vogel, E. K. (2025). Item-based parsing of dynamic scenes in a combined attentional tracking and working memory task. Journal of Cognitive Neuroscience, 1-17.'
+permalink: /publication/MOT-CDA
+citation: 'Styrkowiec, P. P., Ngiam, W. X. Q., Epstein, W., Gneezy, R., Jones, H. M., Awh, E., & Vogel, E. K. (2025). Item-based parsing of dynamic scenes in a combined attentional tracking and working memory task. Journal of Cognitive Neuroscience, 1-17..'
 venue: 'Journal of Cognitive Neuroscience'
 ---
 ### Abstract

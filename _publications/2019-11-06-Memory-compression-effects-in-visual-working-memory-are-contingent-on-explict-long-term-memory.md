@@ -3,7 +3,7 @@ title: \"Memory compression" effects in visual working memory are contingent on 
 collection: publications
 date: '2019-11-06'
 paperurl: 'https://dx.doi.org/10.1037/xge0000649'
-permalink: /publication/2019_JEPG
+permalink: /publication/memory-compression
 citation: 'Ngiam, W. X. Q., Brissenden, J. A., & Awh, E. (2019). "Memory compression" effects in visual working memory are contingent on explicit long-term memory. Journal of Experimental Psychology: General, 148(8), 1373.'
 venue: 'Journal of Experimental Psychology: General'
 ---

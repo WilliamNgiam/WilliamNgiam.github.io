@@ -3,8 +3,8 @@ title: "Mapping visual working memory models to a theoretical framework"
 collection: publications
 date: '2023-03-17'
 paperurl: 'https://doi.org/10.3758/s13423-023-02356-5'
-permalink: /publication/2023_theory_map
-citation: 'Ngiam, W.X.Q. (2024) Mapping visual working memory models to a theoretical framework. Psychonomic Bulletin & Review.'
+permalink: /publication/theory-map
+citation: 'Ngiam, W. X. Q. (2024). Mapping visual working memory models to a theoretical framework. Psychonomic Bulletin & Review, 31(2), 442-459.'
 venue: 'Psychonomic Bulletin & Review'
 ---
 ### Abstract

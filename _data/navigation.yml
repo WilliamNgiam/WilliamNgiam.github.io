@@ -22,8 +22,8 @@ main:
   - title: "About Me"
     url: /    
 
-  #- title: "MATLAB Notebook"
-  #  url: /year-archive/
+  - title: "MATLAB"
+    url: /tutorials/
    
     
 

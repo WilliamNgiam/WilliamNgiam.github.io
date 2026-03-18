@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in the School of Psychology at the University of Adelaide, running the **P**erception, **A**ttention, **L**earning, and **M**emory Lab. The [PALM Lab](https://palm-lab.github.io) is a cognitive neuroscience and psychology lab researching **_visual attention and working memory_** – in a nutshell, trying to understand how visual information is maintained in the mind and brain for ongoing cognition.
+I am a Lecturer in the School of Psychology at Adelaide University, running the **P**erception, **A**ttention, **L**earning, and **M**emory Lab. The [PALM Lab](https://palm-lab.github.io) is a cognitive neuroscience and psychology lab researching **_visual attention and working memory_** – in a nutshell, trying to understand how visual information is maintained in the mind and brain for ongoing cognition.
 
 Lately, my research interests have focused on two main ideas. The first is more theoretical – how is visual information is **represented** in the mind and brain? I am trying to connect cognitive theories and mathematical models of working memory to observed and decoded patterns of brain activity. The second is more applied – is digital technology impacting our ability to focus? I am hoping to conduct research that establishes whether there is a causal link between digital technology use and attention spans, using objective performance measures.
 
